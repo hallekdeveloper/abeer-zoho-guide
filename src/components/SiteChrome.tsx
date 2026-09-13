@@ -38,8 +38,8 @@ export function SiteNav() {
           })}
         </nav>
 
-        <Link href="/flows" className="btn btn-primary !py-2 text-sm">
-          View flows
+        <Link href="/build" className="btn btn-primary !py-2 text-sm">
+          Zoho Build
         </Link>
       </div>
 

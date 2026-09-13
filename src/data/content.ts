@@ -432,6 +432,7 @@ export const nav = [
   { href: "/", label: "Overview" },
   { href: "/architecture", label: "Architecture" },
   { href: "/flows", label: "Flows" },
+  { href: "/build", label: "Zoho Build" },
   { href: "/apps", label: "Apps & Integrations" },
   { href: "/roadmap", label: "Roadmap" },
   { href: "/implement", label: "Implement" },
