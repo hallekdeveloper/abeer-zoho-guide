@@ -433,6 +433,7 @@ export const nav = [
   { href: "/architecture", label: "Architecture" },
   { href: "/flows", label: "Flows" },
   { href: "/build", label: "Zoho Build" },
+  { href: "/blueprints", label: "Blueprints" },
   { href: "/apps", label: "Apps & Integrations" },
   { href: "/roadmap", label: "Roadmap" },
   { href: "/implement", label: "Implement" },
